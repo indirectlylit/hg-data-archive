@@ -1,0 +1,4 @@
+ujson==1.33
+click==3.3
+urwid==1.2.2
+pyserial==2.7

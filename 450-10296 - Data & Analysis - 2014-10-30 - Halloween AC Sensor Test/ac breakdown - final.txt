@@ -1,0 +1,6 @@
+Tier 1	Spkrs L
+Tier 2	Drums
+Tier 3	Ckts
+Ckt A	Guitar
+Ckt B	Spkrs R
+Ckt C	Bass

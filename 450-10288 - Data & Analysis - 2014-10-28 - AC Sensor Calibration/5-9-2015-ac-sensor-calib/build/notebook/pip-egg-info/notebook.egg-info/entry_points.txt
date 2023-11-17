@@ -1,0 +1,5 @@
+[console_scripts]
+jupyter-nbextension = notebook.nbextensions:main
+jupyter-serverextension = notebook.serverextensions:main
+jupyter-notebook = notebook.notebookapp:main
+

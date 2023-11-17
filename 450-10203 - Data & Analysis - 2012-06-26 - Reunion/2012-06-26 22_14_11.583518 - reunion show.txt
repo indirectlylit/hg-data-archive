@@ -1,0 +1,8 @@
+{"machine": "shunt", "data": {"state_prev": 4, "state": 4, "caps": 28.74, "nRelaysOn": 0, "inverter": false, "drainPushed": false, "caps_prev": 28.7}, "millis": 201, "timestamp": "2012-06-26 22:14:13.291400"}
+{"machine": "shunt", "data": {"state_prev": 4, "state": 4, "caps": 28.74, "nRelaysOn": 0, "inverter": false, "drainPushed": false, "caps_prev": 28.7}, "millis": 403, "timestamp": "2012-06-26 22:14:13.488681"}
+{"machine": "shunt", "data": {"state_prev": 4, "state": 4, "caps": 28.74, "nRelaysOn": 0, "inverter": false, "drainPushed": false, "caps_prev": 28.7}, "millis": 603, "timestamp": "2012-06-26 22:14:13.688369"}
+{"machine": "shunt", "data": {"state_prev": 4, "state": 4, "caps": 28.77, "nRelaysOn": 0, "inverter": false, "drainPushed": false, "caps_prev": 28.7}, "millis": 804, "timestamp": "2012-06-26 22:14:13.889734"}
+{"machine": "shunt", "data": {"state_prev": 4, "state": 4, "caps": 28.78, "nRelaysOn": 5, "inverter": false, "drainPushed": false, "caps_prev": 28.78}, "millis": 1005, "timestamp": "2012-06-26 22:14:14.091616"}
+{"machine": "shunt", "data": {"state_prev": 4, "state": 4, "caps": 28.77, "nRelaysOn": 5, "inverter": false, "drainPushed": false, "caps_prev": 28.78}, "millis": 1206, "timestamp": "2012-06-26 22:14:14.292748"}
+{"machine": "shunt", "data": {"state_prev": 4, "state": 4, "caps": 28.76, "nRelaysOn": 5, "inverter": false, "drainPushed": false, "caps_prev": 28.78}, "millis": 1408, "timestamp": "2012-06-26 22:14:14.493704"}
+{"machine": "shunt", "data": {"state_prev": 4, "state": 4, "caps": 28.76, "nRelaysOn": 5, "inverter": false, "drainPushed": false, "caps_prev": 28.78}, "millis": 1609, "timestamp": "2012-06-26 22:14:14.695717"}

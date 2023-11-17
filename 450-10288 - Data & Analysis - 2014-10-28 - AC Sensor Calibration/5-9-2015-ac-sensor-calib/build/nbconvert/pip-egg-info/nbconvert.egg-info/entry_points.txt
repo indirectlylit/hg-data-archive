@@ -1,0 +1,16 @@
+[nbconvert.exporters]
+latex = nbconvert.exporters:LatexExporter
+markdown = nbconvert.exporters:MarkdownExporter
+script = nbconvert.exporters:ScriptExporter
+python = nbconvert.exporters:PythonExporter
+asciidoc = nbconvert.exporters:ASCIIDocExporter
+notebook = nbconvert.exporters:NotebookExporter
+custom = nbconvert.exporters:TemplateExporter
+slides = nbconvert.exporters:SlidesExporter
+html = nbconvert.exporters:HTMLExporter
+rst = nbconvert.exporters:RSTExporter
+pdf = nbconvert.exporters:PDFExporter
+
+[console_scripts]
+jupyter-nbconvert = nbconvert.nbconvertapp:main
+
